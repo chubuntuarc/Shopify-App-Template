@@ -10,9 +10,6 @@
   <p align="center">
     Template to build a custom private app implementation.
     <br />
-    <a href="https://github.com/chubuntuarc/Shopify-App-Template/"><strong>Explore the store »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/chubuntuarc/Shopify-App-Template/issues">Report Bug</a>
     ·
     <a href="https://github.com/chubuntuarc/Shopify-App-Template/issues">Request Feature</a>
@@ -35,7 +32,7 @@ Tha base of this template was created based on the specifications of the Shopify
 https://developers.shopify.com/tutorials/build-a-shopify-app-with-node-and-react/set-up-your-app
 
 ### Built With
-We work with the next technologies and apps in this App.
+Technologies and apps in this App.
 * [NodeJS 10+](https://nodejs.org/en/about/)
 * [React JS](https://reactjs.org/docs/getting-started.html)
 * [Next JS](https://nextjs.org/docs)
@@ -77,7 +74,7 @@ npm run build
 npm run start
 
 Change the .env BASE_PATH
-=> BASE_PATH=/shopify/api/Custom-App-Folder
+=> BASE_PATH=/route/to/Custom-App-Folder
 
 ```
 
