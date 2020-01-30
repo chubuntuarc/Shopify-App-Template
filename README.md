@@ -43,7 +43,7 @@ Technologies and apps in this App.
 * [Shopify Polaris](https://polaris.shopify.com/components/get-started)
 
 ## Getting Started
-Clone the repo, then get run the node commands.
+Clone the repo, then run the node commands.
 
 ### How it works
 
